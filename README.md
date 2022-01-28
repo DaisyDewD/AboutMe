@@ -1,6 +1,6 @@
 
 
-### - 👋 Hi, I’m @DaisyDewD
+### 👋 Hi, I’m @DaisyDewD
 - 👀 I’m interested in arts 🖌️, pets 🐾, drawing ✒️, design 🧩, AR 🤳🏿 and of course, development 👩‍💻.
 - 🌱 I’m currently learning web development ♦️
 - 💞️ I’m looking to collaborate in a big company

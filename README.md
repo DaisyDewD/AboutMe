@@ -4,6 +4,17 @@
 - 👀 I’m interested in arts 🖌️, pets 🐾, drawing ✒️, design 🧩, AR 🤳🏿 and of course, development 👩‍💻.
 - 🌱 I’m currently learning web development ♦️
 - 💞️ I’m looking to collaborate in a big company
+
+# Title1
+## Title2
+### Title3
+#### Title4
+##### Title5
+
+**text bold**
+*text bold*
+~~First idea~~
+This is a [Website](google.com)
 <!--- 📫 How to reach me: daisygarzon.work 
 
 

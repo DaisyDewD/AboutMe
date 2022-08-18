@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning web development ♦️
 - 💞️ I’m looking to collaborate in a big company
 
+
+<!--- 📫 How to reach me: daisygarzon.work 
 # Title1
 ## Title2
 ### Title3
@@ -15,7 +17,6 @@
 *text bold*
 ~~First idea~~
 This is a [Website](google.com)
-<!--- 📫 How to reach me: daisygarzon.work 
 
 
 DaisyDewD/DaisyDewD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

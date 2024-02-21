@@ -2,8 +2,9 @@
 <div align = "center">
  
 ### I’m Daisy
-- 👀 I’m interested in IA, AR 🤳🏿 and Frontend development 👩‍💻.
-- 🌱 I’m currently learning web development ♦️
+- 👀 I’m interested in IA🗨️, AR 🤳🏿 and Frontend development 👩‍💻.
+- 🌱 I finished "Certified Tech Developer" at Digital House 🇦🇷 (Remote).
+- 🦾 I'm strengthening my knowledge in React ♦️
 - 💞️ I’m looking to collaborate in a big company
 - Download my CV in <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024.pdf">🇪🇸</a> or <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024-en.pdf">🇺🇲</a>
 - My [portfolio](https://portfolio-daisydew.vercel.app)

@@ -23,16 +23,11 @@
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-  
-</div><div align="left">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
-</div>
-</div><div align="left">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg">

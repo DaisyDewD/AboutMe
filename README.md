@@ -4,10 +4,10 @@
 ### I’m Daisy
 - 👀 I’m interested in IA🗨️, AR 🤳🏿 and Frontend development 👩‍💻.
 - 🌱 I finished "Certified Tech Developer" at Digital House 🇦🇷 (Remote).
-- 🦾 I'm strengthening my knowledge in React ♦️
-- 💞️ I’m looking to collaborate in a big company
-- Download my CV in <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024.pdf">🇪🇸</a> or <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024-en.pdf">🇺🇲</a>
-- My [portfolio](https://portfolio-daisydew.vercel.app)
+- 🦾 I'm strengthening my knowledge in React.
+- 💞️ I’m looking to collaborate in a big company.
+- Download my CV in <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024.pdf">🇪🇸</a> or <a href="https://portfolio-daisydew.vercel.app/docs/CV-DeisyGarzon2024-en.pdf">🇺🇲</a>.
+- My [portfolio](https://portfolio-daisydew.vercel.app) web and design.
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=transparent&hide_title=false&card_width=500&&bg_color=DEG,38184C,1F0802&border_color=CEF09D&text_color=FFFFD5&title_color=A0CD60" alt="daisydew" />

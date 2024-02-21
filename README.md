@@ -11,7 +11,7 @@
  ### Here are some of the languages I work with most frequently:
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=ambient_gradient&hide_title=true&card_width=500" alt="daisydew" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=transparent&hide_title=false&card_width=500&bg_color=38184C&border_color=CEF09D&text_color=FFFFD5&title_color=A0CD60" alt="daisydew" />
 </p>
 
 

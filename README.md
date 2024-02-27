@@ -40,8 +40,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 </div>
 </div>
-
+<br>
 <img src="https://www.daisydew.works/images/bannergit.png" alt="banner"  width="700"/>
+
 
 <!--- 📫 How to reach me: daisygarzon.work 
 # Title1

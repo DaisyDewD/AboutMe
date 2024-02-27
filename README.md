@@ -1,5 +1,5 @@
 
-<div align = "center">
+<div align = "left">
  
 ## Hi, I’m Daisy <img src="https://media.giphy.com/media/uwuwyUfda0pxn2aM8X/giphy.gif" width="29px"> 
 * 👀 I’m interested in IA🗨️, AR 🤳🏿 and Frontend development 👩‍💻.
@@ -9,13 +9,12 @@
 * Download my CV in <a href="https://www.daisydew.works/docs/CV-DeisyGarzon2024.pdf">🇪🇸</a> or <a href="https://www.daisydew.works/docs/CV-DeisyGarzon2024-en.pdf">🇺🇲</a>.
 * My [portfolio](https://www.daisydew.works) web and design.
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=transparent&hide_title=false&card_width=500&&bg_color=DEG,38184C,1F0802&border_color=CEF09D&text_color=FFFFD5&title_color=A0CD60" alt="daisydew" />
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=transparent&hide_title=false&card_width=700&&bg_color=DEG,38184C,1F0802&border_color=CEF09D&text_color=FFFFD5&title_color=A0CD60" alt="daisydew" />
 </p>
 
-
 ## Featured Tools
-<div align="center">
+<div align="left">
  <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
@@ -41,6 +40,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 </div>
 </div>
+
+<img src="https://www.daisydew.works/images/bannergit.png" alt="banner"  width="700"/>
 
 <!--- 📫 How to reach me: daisygarzon.work 
 # Title1

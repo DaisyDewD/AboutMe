@@ -22,23 +22,17 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
- </div>
-
- <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
- </div>
- <div> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
-</div>
 </div>
 <br>
 <img src="https://www.daisydew.works/images/bannergit.png" alt="banner"  width="700"/>

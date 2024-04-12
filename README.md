@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisydewd&layout=compact&langs_count=5&theme=transparent&hide_title=false&card_width=700&&bg_color=DEG,38184C,1F0802&border_color=CEF09D&text_color=FFFFD5&title_color=A0CD60" alt="daisydew" />
 </p>
 
-## Featured Tools
+#### Featured Tools
 <div align="left">
  <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg">
@@ -22,6 +22,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
